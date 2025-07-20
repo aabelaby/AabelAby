@@ -1,5 +1,5 @@
-<div align="center">
-  <h1 align="center">Hi 👋, I'm Aabel Aby</h1>
+<div >
+  <h1 >Hi 👋, I'm Aabel Aby</h1>
   <h3 align="center">I'm a passionate and dedicated student pursuing a B.Tech in Computer Science, with a strong focus on Software Engineering.I thrive on building elegant and effective solutions to complex problems. My journey in technology is driven by a deep interest in Python, Django, and AI/ML.</h3>
 </div>
 
