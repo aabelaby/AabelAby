@@ -13,6 +13,14 @@
 <a href="https://twitter.com/i_aabel" target="blank"><img src="https://img.shields.io/twitter/follow/i_aabel?logo=twitter&style=for-the-badge" alt="i_aabel" /></a>
 </p>
 
+🌍 I'm based in Kochi,Kerala, India
+
+🖥️ See my portfolio at MyPortfolio
+
+📫 You can contact me at aabelaby2003@gmail.com
+
+🤝 I'm open to collaborating on interesting projects
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/i_aabel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="i_aabel" height="30" width="40" /></a>
